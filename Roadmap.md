@@ -1,5 +1,5 @@
 # Meter inputs
-Variables: 
-Nombre de empresa: string
-menú interactivo con case para tipo de problema
-asunto: string
+  ## Variables: 
+  1. Nombre de empresa:<br/> string
+  2. menú interactivo con case para tipo de problema
+  3. asunto: string
